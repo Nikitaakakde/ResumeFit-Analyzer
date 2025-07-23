@@ -36,5 +36,3 @@
    - Skills
    - Contact (or phone number)
 4. A match score is calculated and feedback is displayed
-
-## Example Output
